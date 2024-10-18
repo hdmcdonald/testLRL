@@ -1,13 +1,15 @@
 # testLRL
 test repo for UIC lab demo
 
-A lab wiki will be a good place to store standard operating procedures, best practices, and other guidlines and common resources
+A lab repository will be a good place to store code (in the repo), plus standard operating procedures, best practices, and other guidlines and common resources in a wiki
 
-you can put all kinds of things on the wiki
+See wiki example: [Demo Wiki Page](https://github.com/hdmcdonald/testLRL/wiki/Scientific-Color-Palettes)
+
+you can put all kinds of things on the wiki!
 
 images ([ref](https://physiofitfinder.in/human-gait-pattern-and-abnormal-gait))
 
-<img src="https://github.com/hdmcdonald/testLRL/blob/main/wikiFiles/gaitCycle.png" width="508">
+<img src="https://github.com/hdmcdonald/testLRL/blob/main/wikiFiles/gaitCycle.png" width="400">
 
 tables
 
