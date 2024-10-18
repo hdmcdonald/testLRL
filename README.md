@@ -6,9 +6,8 @@ A lab wiki will be a good place to store standard operating procedures, best pra
 you can put all kinds of things on the wiki
 
 images ([ref](https://physiofitfinder.in/human-gait-pattern-and-abnormal-gait))
-[[https://github.com/hdmcdonald/testLRL/blob/main/wikiFiles/gaitCycle.png]]
 
-
+<img src="https://github.com/hdmcdonald/testLRL/blob/main/wikiFiles/gaitCycle.png" width="508">
 
 tables
 
